@@ -1,2 +1,2 @@
-# Booking-app
-with react-tailwind-mongodb-express-node
+# Social-media-app
+with react-Mysql-node
